@@ -1,2 +1,2 @@
 placeholder = "picsum.photos"
-prefix = "helaba"
+prefix = "sp"
